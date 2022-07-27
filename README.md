@@ -4,6 +4,7 @@
 
 ## 致谢
 
+- [p3terx大佬](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
