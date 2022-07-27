@@ -1,5 +1,7 @@
 ## 基于[p3terx](https://p3terx.com/archives/build-openwrt-with-github-actions.html)修改
 
+  使用GitHub Actions编译x86软路由固件，包含插件随个人爱好。
+
 ## 致谢
 
 - [Microsoft Azure](https://azure.microsoft.com)
