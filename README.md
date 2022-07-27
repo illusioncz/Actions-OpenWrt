@@ -1,10 +1,10 @@
-## 基于[p3terx](https://p3terx.com/archives/build-openwrt-with-github-actions.html)修改
+## 基于[P3TERX大佬](https://p3terx.com/archives/build-openwrt-with-github-actions.html)修改
 
   使用GitHub Actions编译x86软路由固件，包含插件随个人爱好。
 
 ## 致谢
 
-- [p3terx大佬](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
+- [P3TERX大佬](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [GitHub Actions](https://github.com/features/actions)
 - [OpenWrt](https://github.com/openwrt/openwrt)
