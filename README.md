@@ -1,6 +1,6 @@
 ## 基于[P3TERX大佬](https://p3terx.com/archives/build-openwrt-with-github-actions.html)修改
 
-  使用GitHub Actions编译x86软路由固件，包含插件随个人爱好。
+  使用GitHub Actions编译x86软路由固件，固件在release中，包含插件随个人爱好。
 
 ## 致谢
 
